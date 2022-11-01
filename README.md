@@ -16,13 +16,9 @@
 
 - [Índice](#-índice)
 
-- [Funcionalidades]()
+- [Instalando Dependências](#-instalando-dependências-utilizadas-no-projeto)
 
 - [À implementar]()
-
-- [Screenshots]()
-
-- [Documentação de cores]()
 
 - [Skills aplicadas e desenvolvidas](#-skills-aplicadas-e-desenvolvidas)
 
@@ -32,6 +28,16 @@
 
 
 ---
+
+## ⚙️ Instalando dependências utilizadas no projeto
+
+```
+npm install
+npm install storybook
+npm install --save-dev @svgr/core
+npm install styled-components @types/styled-components
+```
+
 
 ## 👨‍💻 Skills aplicadas e desenvolvidas
 
