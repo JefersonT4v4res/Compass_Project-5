@@ -18,7 +18,7 @@
 
 - [Instalando Dependências](#instalando-dependências-e-rodando-projeto)
 
-- [Para Implementar](#para-funcionalidades)
+- [Para Implementar](#para-implementar)
 
 - [Skills aplicadas e desenvolvidas](#-skills-aplicadas-e-desenvolvidas)
 
