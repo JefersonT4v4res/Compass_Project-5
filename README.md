@@ -16,9 +16,9 @@
 
 - [Índice](#-índice)
 
-- [Instalando Dependências](#-instalando-dependências-utilizadas-no-projeto)
+- [Instalando Dependências](#instalando-dependências-e-rodando-projeto)
 
-- [Para Implementar](#-para-funcionalidades)
+- [Para Implementar](#para-funcionalidades)
 
 - [Skills aplicadas e desenvolvidas](#-skills-aplicadas-e-desenvolvidas)
 
@@ -38,7 +38,7 @@
 - [ ] Alteração entre temas dark e light
 
 
-## ⚙️ Instalando dependências e rodando projeto
+## Instalando dependências e rodando projeto
 
 ```
 npm install
