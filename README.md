@@ -2,6 +2,7 @@
 
 <h1 align="left"><img src="https://imagepng.org/wp-content/uploads/2018/08/twitter-icone.png" width="42px" height="42px" align="left" alt="Bird blue twitter"> Twitter web - UI </h1>
 
+<img align="center" src="./UI-Twitter_web/src/assets/img/Cover.png" alt="Demonstration screen">
 
 > Projeto desenvolvido durante a Sprint 5.
 > O projeto consiste em um clone do Twitter para treinar componentização e documentação através de Storybook
