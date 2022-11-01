@@ -1,10 +1,11 @@
-<img src="./Projeto_Sprint_4(Keepalive)/assets/imgs/logo-Compass.png" min-width="300px" max-width="400px" width="400px" align="right" alt="Logo compass">
+<img src="https://github.com/JefersonT4v4res/Compass_Project-4/blob/main/Projeto_Sprint_4(Keepalive)/assets/imgs/logo-Compass.png?raw=true" min-width="300px" max-width="400px" width="400px" align="right" alt="Logo compass">
 
-<h1 align="left"><img src="https://imagepng.org/wp-content/uploads/2018/08/twitter-icone.png" width="16px" height="16px" align="left" alt="Bird blue twitter"> Twitter web - UI </h1>
+<h1 align="left"><img src="https://imagepng.org/wp-content/uploads/2018/08/twitter-icone.png" width="42px" height="42px" align="left" alt="Bird blue twitter"> Twitter web - UI </h1>
 
 
 > Projeto desenvolvido durante a Sprint 5.
 > O projeto consiste em um clone do Twitter para treinar componentização e documentação através de Storybook
+<br><br>
 ![Status](http://img.shields.io/static/v1?label=STATUS&message=WORKING%20ON&color=GREEN&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JefersonT4v4res/Compass_Project-5?label=LAST%20COMMIT&message=LAST%20COMMIT&color=GREEN&style=for-the-badge)
 
