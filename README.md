@@ -18,7 +18,7 @@
 
 - [Instalando Dependências](#-instalando-dependências-utilizadas-no-projeto)
 
-- [À implementar]()
+- [Para Implementar](#-para-funcionalidades)
 
 - [Skills aplicadas e desenvolvidas](#-skills-aplicadas-e-desenvolvidas)
 
@@ -29,15 +29,33 @@
 
 ---
 
-## ⚙️ Instalando dependências utilizadas no projeto
+## Para Implementar
+
+- [ ] Criação dos componentes
+- [ ] Documentação dos componentes no Storybook
+- [ ] Funcionalidade de adicionar tweet no feed
+- [ ] Scroll na área do tweet
+- [ ] Alteração entre temas dark e light
+
+
+## ⚙️ Instalando dependências e rodando projeto
 
 ```
 npm install
 npm install storybook
-npm install --save-dev @svgr/core
-npm install styled-components @types/styled-components
 ```
 
+Rodando projeto:
+
+```
+npm run dev
+```
+
+Ou utilize seguinte comando para rodar o storybook.
+
+```
+npm run storybook
+```
 
 ## 👨‍💻 Skills aplicadas e desenvolvidas
 
